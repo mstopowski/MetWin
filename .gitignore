@@ -1,0 +1,6 @@
+# ignore folders
+__pycache__
+data/meteo_data
+data/stations
+
+# ignore files
