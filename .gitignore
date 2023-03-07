@@ -4,3 +4,4 @@ data/meteo_data
 data/stations
 
 # ignore files
+test.py

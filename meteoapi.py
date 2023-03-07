@@ -189,6 +189,7 @@ class MeteoAPIUrl:
     @staticmethod
     def read_url_data( url: str):
         """This method reads data from parsed url.
+        Use it if you want to create dict from obtained data. 
 
         Args:
             url (str): URL to read from
